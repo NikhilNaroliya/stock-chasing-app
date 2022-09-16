@@ -1,0 +1,77 @@
+body{
+background-image: url("https://assets.cmcmarkets.com/images/Forex-vs-stocks.jpg");
+text-align: center;
+color: white;
+
+}
+/* for input  */
+#ip{
+    /* background-color:  rgb(43, 103, 193);;
+     */padding-bottom: 2rem;
+      background-color: rgb(43, 103, 193);
+      padding-top: 2rem;
+      margin-bottom: 2rem;
+     border-radius: 1rem;
+
+}
+#sq{
+    padding-bottom: 2rem;
+      background-color: rgb(43, 103, 193);
+      padding-top: 2rem;
+      margin-bottom: 2rem;
+     border-radius: 1rem;
+}
+#cp{padding-bottom: 2rem;
+background-color: rgb(43, 103, 193);
+padding-top: 2rem;
+margin-bottom: 2rem;
+     border-radius: 1rem;
+}
+label{
+   display: block;
+   padding-bottom: 1rem;
+   margin: auto;
+}
+#initial-price{
+    border-radius: 0.4rem;
+}
+#stocks-quantity{
+    border-radius: 0.4rem;
+}
+#current-price{
+    border-radius: 0.4rem;
+}
+#output-box{
+
+    display: block;
+    margin: auto;
+    border: 2px solid wheat;
+    width: 30%;
+     height: 2rem;
+     padding-top: 4rem;
+     border-radius: 2rem;
+}
+main{
+    border-radius: 3rem;
+    padding-top: 2rem;
+    border: 2px solid white;
+    height: 40rem;
+    width: 30rem;
+    margin: auto;
+}
+h1{ 
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    margin: auto;
+    display: block;
+    width: 30%;
+    background-color: rgb(43, 103, 193);
+    
+    
+}
+/* button */
+#submit-btn{
+    background-color: rgb(43, 103, 193);
+    border-radius: 0.3rem;
+    margin-bottom: 0.3rem;
+}
